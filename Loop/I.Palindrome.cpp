@@ -1,9 +1,4 @@
-//Problem Name : Palindrome
-//Course Title : Competitive programming sessional 
-//course code : CCE -2310
-// course Teacher Name : Mirza Raquib
-//Date :19.05.2025
- #include<bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 int main()
 {
